@@ -9,9 +9,9 @@ const brandsData = [
     desc: "Safety-first vehicles with premium comfort.",
     cars: [
       { src: "/cars/volvo/s60.jpg", label: "S60 — sedan" },
-      { src: "/cars/volvo/XC60.jpg", label: "XC90 — SUV" },
-      { src: "/cars/volvo/V90.jpg", label: "V90 — estate" },
-      { src: "/cars/volvo/S90.jpg", label: "S90 — executive" },
+      { src: "/cars/volvo/xc60.jpg", label: "XC90 — SUV" },
+      { src: "/cars/volvo/v90.jpg", label: "V90 — estate" },
+      { src: "/cars/volvo/s90.jpg", label: "S90 — executive" },
     ],
   },
 ];
