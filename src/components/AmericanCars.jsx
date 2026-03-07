@@ -4,11 +4,11 @@ import "../style.css";
 const brandsData = [
   {
     id: "ford",
-    logo: "/brands/american/Ford logo.png",
+    logo: "/brands/american/ford.png",
     name: "Ford",
     desc: "Strong trucks and family SUVs.",
     cars: [
-      { src: "/cars/ford/F150.jpg", label: "F-150 — pickup" },
+      { src: "/cars/ford/f150.jpg", label: "F-150 — pickup" },
       { src: "/cars/ford/ranger.jpg", label: "Ranger — midsize truck" },
       { src: "/cars/ford/mustang.jpg", label: "Mustang — sports coupe" },
       { src: "/cars/ford/escape.jpg", label: "Escape — crossover" },
@@ -16,7 +16,7 @@ const brandsData = [
   },
   {
     id: "gmc",
-    logo: "/brands/american/GMC Logo.png",
+    logo: "/brands/american/gmc.png",
     name: "GMC",
     desc: "Premium trucks & utility vehicles.",
     cars: [
@@ -28,7 +28,7 @@ const brandsData = [
   },
   {
     id: "jeep",
-    logo: "/brands/american/Jeep.png",
+    logo: "/brands/american/jeep.png",
     name: "Jeep",
     desc: "Off-road capable SUVs and rugged designs.",
     cars: [
@@ -40,7 +40,7 @@ const brandsData = [
   },
   {
     id: "dodge",
-    logo: "/brands/american/Dodge.png",
+    logo: "/brands/american/dodge.png",
     name: "Dodge",
     desc: "Muscle cars and performance-focused models.",
     cars: [
@@ -64,14 +64,14 @@ const brandsData = [
   },
   {
     id: "ram",
-    logo: "/brands/american/RAM.png",
+    logo: "/brands/american/ram.png",
     name: "RAM",
     desc: "Heavy-duty and premium pickup trucks.",
     cars: [
       { src: "/cars/ram/1500.jpg", label: "1500 — light-duty" },
       { src: "/cars/ram/2500.jpg", label: "2500 — heavy-duty" },
       { src: "/cars/ram/3500.jpg", label: "3500 — commercial" },
-      { src: "/cars/ram/TRX.jpg", label: "TRX — performance truck" },
+      { src: "/cars/ram/trx.jpg", label: "TRX — performance truck" },
     ],
   },
 ];

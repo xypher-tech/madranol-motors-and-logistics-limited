@@ -22,7 +22,7 @@ export default function Footer() {
             <h4>Follow us</h4>
             <div className="social-media">
               <a href="https://www.tiktok.com/@mardranolmotorsuganda" target="_blank" rel="noreferrer" className="social-item">
-                <img src="/images/TikTok.png" alt="TikTok"/>
+                <img src="/images/tiktok.png" alt="TikTok"/>
                 <span>TikTok</span>
               </a>
               <a href="https://youtube.com/@mardra-ug?si=wPhQI5-3_teHtg7c" target="_blank" rel="noreferrer" className="social-item">

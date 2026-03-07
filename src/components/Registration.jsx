@@ -14,7 +14,7 @@ export default function Registration() {
                     </div>
                     <div className="registration-image">
                         <img 
-                            src="/images/REGISTRATION_CERTIFICATE.jpg" 
+                            src="/images/registration-certificate.jpg" 
                             alt="URSB Certificate of Registration"
                             style={{
                                 maxWidth: "400px",
