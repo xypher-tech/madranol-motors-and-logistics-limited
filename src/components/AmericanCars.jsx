@@ -52,7 +52,7 @@ const brandsData = [
   },
   {
     id: "chevrolet",
-    logo: "/brands/american/Chevrolet.png",
+    logo: "/brands/american/chevrolet.png",
     name: "Chevrolet",
     desc: "Wide lineup from compact cars to heavy-duty trucks.",
     cars: [
